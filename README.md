@@ -1,5 +1,8 @@
 # Eclipse Portable
 
+<a href="https://www.buymeacoffee.com/Berny23" title="Donate to this project using Buy Me A Coffee"><img src="https://img.shields.io/badge/buy%20me%20a%20coffee-donate-yellow.svg" alt="Buy Me A Coffee donate button" /></a>
+</span>
+
 With this portable version of Eclipse, you can develop software directly from your removable mass storage device, even without admin rights.
 
 This repository only contains files that were added or changed to make the portable version work properly.
